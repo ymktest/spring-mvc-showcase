@@ -40,7 +40,7 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
 		<p>
-			This is a test line by Bryan --- 수정된 라인(지나가는 개발자)
+			This is a test line by Bryan 2 --- 수정된 라인(지나가는 개발자 2)
 		</p>
 		<ul>
 			<li>
