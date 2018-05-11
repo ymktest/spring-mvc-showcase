@@ -42,6 +42,9 @@
 		<p>
 			This is a test line by Bryan 3 --- Edited line(Developer-3)
 		</p>
+		<p>
+			YMKIM OpenShift Origin TEST --- Edited line(Developer-4)
+		</p>	    
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
